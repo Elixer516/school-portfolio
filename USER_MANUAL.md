@@ -2,6 +2,7 @@ INTRODUCTION: Grace Records: Canonical Record Sorter, developed by Team CTRL, is
 
 USEAGE INSTRUCTIONS:
 
+![345987405-2512e714-d1b9-4419-ba2f-0f211e494766](https://github.com/Elixer516/school-portfolio/assets/173219039/2cf7c2d4-8cac-42f3-b67a-6eb4893b59a6)
 
 
 PROTOTYPE INFORMATION: Application Name: Grace Records - Canonical Record Sorter Primary Function: To manage Baptismal Records efficiently by allowing users to add, edit, view, search, and delete records. Target Users: Clergy and Resident Priests, Parish Head Officers, Parish Front Desk Representatives, and Client.
