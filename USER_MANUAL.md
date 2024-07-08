@@ -9,38 +9,38 @@ PROTOTYPE INFORMATION: Application Name: Grace Records - Canonical Record Sorter
 
 MAIN SCREEN COMPONENTS
 
-Header: Displays the current date and time for reference. Contains the application name and logo for easy identification.
+1. Header: Displays the current date and time for reference. Contains the application name and logo for easy identification.
 
-Navigation Panel (Left Sidebar): Home: Returns to the main dashboard. Baptismal Records: Main section for managing records. User Profile: Access and update user information. Logout: Safely log out of the application.
+2. Navigation Panel (Left Sidebar): Home: Returns to the main dashboard. Baptismal Records: Main section for managing records. User Profile: Access and update user information. Logout: Safely log out of the application.
 
-Record Management Section: Add Record: Button to add a new baptismal record. View All: Button to view all existing records. Search Records: Fields to input search criteria and a button to search specific records. Record List/Table: Displays search results or all records in a tabulated format with options to edit or delete each record.
+3. Record Management Section: Add Record: Button to add a new baptismal record. View All: Button to view all existing records. Search Records: Fields to input search criteria and a button to search specific records. Record List/Table: Displays search results or all records in a tabulated format with options to edit or delete each record.
 
 RECORD MANAGEMENT DETAILS
 
-Adding a Record: Fields Required: Name, Date of Birth, Date of Baptism, Parents’ Names, and any other relevant information. Validation: Ensure all mandatory fields are filled before allowing submission.
+1. Adding a Record: Fields Required: Name, Date of Birth, Date of Baptism, Parents’ Names, and any other relevant information. Validation: Ensure all mandatory fields are filled before allowing submission.
 
-Editing a Record: Selection: Users must search and select the record they want to edit. Editable Fields: All fields originally entered can be updated. Confirmation: User needs to confirm updates before saving changes.
+2. Editing a Record: Selection: Users must search and select the record they want to edit. Editable Fields: All fields originally entered can be updated. Confirmation: User needs to confirm updates before saving changes.
 
-Deleting a Record: Selection: Users must search and select the record they want to delete. Confirmation: Users must enter their password and confirm the deletion to prevent accidental data loss.
+3. Deleting a Record: Selection: Users must search and select the record they want to delete. Confirmation: Users must enter their password and confirm the deletion to prevent accidental data loss.
 
 USER INTERFACE CONSIDERATIONS
 
-Ease of Use: Ensure the interface is intuitive and user-friendly.
-Accessibility: Include accessibility features like screen reader support and keyboard navigation.
-Responsiveness: Design the application to be responsive and usable on various devices, including tablets and smartphones.
+• Ease of Use: Ensure the interface is intuitive and user-friendly.
+• Accessibility: Include accessibility features like screen reader support and keyboard navigation.
+• Responsiveness: Design the application to be responsive and usable on various devices, including tablets and smartphones.
+
 SECURITY AND DATA INTEGRITY
+• User Authentication: Strong password policies and optional two-factor authentication (2FA).
+• Data Encryption: Encrypt sensitive data both in transit and at rest.
+• Audit Trail: Maintain logs of all user activities, especially add, edit, and delete actions for records.
+• Backup: Regular backups of the database to prevent data loss
 
-User Authentication: Strong password policies and optional two-factor authentication (2FA).
-Data Encryption: Encrypt sensitive data both in transit and at rest.
-Audit Trail: Maintain logs of all user activities, especially add, edit, and delete actions for records.
-Backup: Regular backups of the database to prevent data loss
 HELP AND SUPPORT
+• User Manual: Provide a detailed user manual accessible from the application.
+• FAQ Section: Include a Frequently Asked Questions section to address common issues.
+• Customer Support: Offer support via email, phone, or chat for users needing assistance.
 
-User Manual: Provide a detailed user manual accessible from the application.
-FAQ Section: Include a Frequently Asked Questions section to address common issues.
-Customer Support: Offer support via email, phone, or chat for users needing assistance.
 FUTURE ENHANCEMENTS
-
-Automated Notifications: Send reminders for upcoming baptism dates or record updates.
-Integration: Allow integration with other church management software.
-Analytics: Provide analytics and reports on the records managed for better decision-making.
+• Automated Notifications: Send reminders for upcoming baptism dates or record updates.
+• Integration: Allow integration with other church management software.
+• Analytics: Provide analytics and reports on the records managed for better decision-making.
